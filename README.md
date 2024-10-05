@@ -1,6 +1,6 @@
 # Face Detection
  Face Detection Using MTCNN
 
-This is my Computer Vision project to detect a face and I'm using MTCNN for these datasets
+This is my Computer Vision project to classified faces based on subfolder name as a label
 
-Any update from my colab have been updated in update branch
+I split my colab between preprocessing, making model, and validation
